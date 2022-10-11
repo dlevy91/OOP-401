@@ -1,5 +1,5 @@
 ﻿using System;
-
+//comment for push
 namespace Inheritance{
     class Program{
         static void Main(string[] args){
